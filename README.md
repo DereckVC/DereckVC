@@ -12,7 +12,7 @@
 <p align="left">
 🎓 ESTUDIANTE DE DESARROLLO DE SISTEMAS
 
-💻 Unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 Unos cuántos meeses de experiencia en el proceso de desarrollo de software.
 
 📝 Roles en el ámbito: desarrollador... líder... arquitecto... programador freelance... y en un futuro quién sabe ☺️
 
