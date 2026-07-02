@@ -1,7 +1,7 @@
 <h1 align="center">Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> soy Dereck / Panda158 ✨ </h1> 
 
 <p align="left">
-  <a href="https://www.youtube.com/@panda158" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@panda"  /></a>
+  <a href="https://www.youtube.com/@Panda.158" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@panda"  /></a>
 <a href="https://fb.com/dereckvicentec" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Dereck Vicente"  /></a>
 <a href = "mailto:i2611843@continental.edu.pe" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Dereck"  /></a>
   </p>
