@@ -14,7 +14,7 @@
 
 💻 Unos cuántos meeses de experiencia en el proceso de desarrollo de software.
 
-📝 Roles en el ámbito: desarrollador... líder... arquitecto... programador freelance... y en un futuro quién sabe ☺️
+📝 Roles en el ámbito: Desarrollador, Líder, Arquitecto Programador Freelance y en un futuro quién sabe ☺️
 
 📫 Contacto: **i2611843@continental.edu.pe**
 <!--Intro end-->
